@@ -24,7 +24,7 @@
     "start-no-install": "npm run nodemon-all",
     "start": "npm install --no-save && npm run nodemon-all"
   },
-  "author": "Erik Christianson",
+  "author": "Wangjun Yang",
   "babel": {
     "presets": [
       [
